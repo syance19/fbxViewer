@@ -4,7 +4,7 @@ import ReactThreeFbxViewer from 'react-three-fbx-viewer';
 
 let fbxUrl = require('./asd.fbx');
 
-let fbx2= ('./01_Shoe.fbx')
+//let fbx2= ('./01_Shoe.fbx')
 
 export default class App extends Component {
 	onLoad(e) {
