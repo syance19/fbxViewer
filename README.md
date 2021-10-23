@@ -1,4 +1,4 @@
-# react-three-fbx-viewer
+<!-- # react-three-fbx-viewer
 
 > fbx viewer with three.js for react
 
@@ -94,4 +94,4 @@ Now, anytime you make a change to your component in `src/` or to the example app
 MIT © [kappys1](https://github.com/kappys1) - Alejandro Marcos Gutierrez
 
 
-2018 © TMTFactory
+2018 © TMTFactory -->
